@@ -38,6 +38,14 @@ Concept-Based-Explanation methods.
     - [2.2.5. YEAR 2019](#019- YEAR 2019)
     - [2.2.6. YEAR 2018](#018- YEAR 2018)
 
+- [2.2. Concept-Based-Explanation methods Lists](#22-concept-based-explanation-methods)
+  - [2.2.1. YEAR 2023](#221-year-2023)
+  - [2.2.2. YEAR 2022](#222-year-2022)
+  - [2.2.3. YEAR 2021](#223-year-2021)
+  - [2.2.4. YEAR 2020](#224-year-2020)
+  - [2.2.5. YEAR 2019](#225-year-2019)
+  - [2.2.6. YEAR 2018](#226-year-2018)
+
 ##  2. Lists
 
 ###  2.1. Datasets 
