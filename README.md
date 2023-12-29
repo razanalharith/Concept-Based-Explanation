@@ -97,7 +97,7 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 
 
 
-| Name                 | Reference                                                       | Publisher  | Main Technologies                                  | Code                                      |
+| Method Name   | Paper                                                       | Publisher  | Main Technologies                                  | Code                                      |
 |----------------------|-----------------------------------------------------------------|------------|---------------------------------------------------|-------------------------------------------|
 | CCM                  | {10208381}                                              | IEEE/CVF   | Concept uniqueness loss, mapping consistency loss, and coherence loss. | [Yes](https://github.com/CristianoPatricio/coherent-cbe-skin) |
 | EAC                  |{Sun2023ExplainAC}                                     | arXiv      | Segmentation, SAM, PIE                             | [Yes](https://github.com/Jerry00917/samshap#explain-a-hummingbird-on-your-local-pre-trained-resnet-50) |
@@ -139,7 +139,7 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 
 #### 2.2.2. YEAR 2022
 
-| Name          | Reference                                                | Publisher | Main Technologies                            | Code                                                 |
+| Name          | Paper                                                | Publisher | Main Technologies                            | Code                                                 |
 |---------------|----------------------------------------------------------|-----------|----------------------------------------------|------------------------------------------------------|
 | CPM           | [ICML](https://arxiv.org/abs/2202.12345)                 | ICML      | Self-explanation, Semi-supervised, Agnostic  | [Yes](https://github.com/frankaging/Causal-Proxy-Model) |
 | CARs          | [NeurIPS](https://arxiv.org/abs/2201.23456)              | NeurIPS   | Concept Activation Regions, Fully supervised | [GitHub 1](https://github.com/JonathanCrabbe/CARs) and [GitHub 2](https://github.com/vanderschaarlab/CARs) |
@@ -163,7 +163,7 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 
 #### 2.2.3. YEAR 2021
 
-| Name       | Reference     | Publisher       | Main Technologies                              | Code |
+| Name       | Paper     | Publisher       | Main Technologies                              | Code |
 |------------|---------------|-----------------|------------------------------------------------|------|
 | HINT       | [9879164]     | IEEE/CVF        | Object localization, Weakly supervised         | Yes  |
 | DLIME      | [make3030027] | MAKE            | LIME, Agglomerative Hierarchical Clustering, KNN | Yes  |
@@ -190,7 +190,7 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 #### 2.2.4. YEAR 2020
 
 
-| Name | Reference | Publisher | Main Technologies | Code |
+| Name | Paper | Publisher | Main Technologies | Code |
 |------|-----------|-----------|------------------|------|
 | CME | [Koh2020ConceptBM](https://arxiv.org/abs/2010.13233) | arXiv | Multi-task learning and model extraction | [Yes](https://github.com/dmitrykazhdan/CME) |
 | CBM | [9658985](https://ieeexplore.ieee.org/document/9658985) | IEEE SMC | Concept bottleneck models | [Yes](https://github.com/yewsiang/ConceptBottleneck) |
@@ -205,14 +205,14 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 | ICE | [Zhang2020InvertibleCE](https://www.aaai.org/AAAI21Papers/AAAI-8934.ZhangJ.pdf) | AAAI | Non-negative matrix factorization (NMF) on feature maps | NO |
 
 #### 2.2.5. YEAR 2019
-| Name     | Reference        | Publisher                | Main Technologies                            | Code    |
+| Name     | Paper        | Publisher                | Main Technologies                            | Code    |
 |----------|------------------|--------------------------|----------------------------------------------|---------|
 | ACE      | [paper](https://papers.nips.cc/paper_files/paper/2019/hash/77d2afcb31f6493e350fca61764efb9a-Abstract.html) | NeurIPS                  | Multi-resolution segmentation, Clustering     | Yes     |
 | JargonLite | [paper](https://ieeexplore.ieee.org/document/8818822) | IEEE VL/HCC               | Web-based interactive dictionary             | NO      |
 | ASEIC    | [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1366/1/012084) | Journal of Physics      | Test instruments and descriptive statistics | NO      |
 
 #### 2.2.6. YEAR 2018
-| Name     | Reference        | Publisher                | Main Technologies                            | Code    |
+| Name     | Paper        | Publisher                | Main Technologies                            | Code    |
 |----------|------------------|--------------------------|----------------------------------------------|---------|
 | SENNs    | [1055](#1055)      | Curran Associates Inc     | Self-explaining models, Gradient regularization | NO      |
 | MAPLE    | [1077](#1077)      | IEEE Trans                | Local linear modeling with random forests    | Yes     |
