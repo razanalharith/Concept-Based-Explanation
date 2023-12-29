@@ -96,27 +96,26 @@
 
 #### 2.2.2. YEAR 2022
 
-|    NO    |       Name        | Reference |              Publisher              |      Main Technologies      |   Code   |
-|----------|-------------------|-----------|-------------------------------------|-----------------------------|----------|
-|    1     |       CPM         |   ICML    |         SELF-EXPLANATION            |     Semi-supervised         |   Yes    |
-|    2     |       CARs        |  NeurIPS  |      Concept Activation Regions     |     Fully supervised        |   Yes    |
-|    3     |       CLEF        |   IJCAI   |    Counterfactual explanation       |     Semi-supervised         |   NO     |
-|    4     |       CRP         |   arXiv   | Layer-wise Relevance Propagation... |     Semi-supervised         |   Yes    |
-|    5     |  ConceptExplainer | IEEE TVCG |  Concept extraction and clustering  | Fully/Semi/Un-supervised    |   NO     |
-|    6     |      CoDEx        |   arXiv   |    Semantic Concept Video Classification | Fully supervised |   NO     |
-|    7     |    UFDB-CBM       |   arXiv   |       Concept-based Models          |     Semi-supervised         |   NO     |
-|    8     |   ConceptDistil   |   arXiv   |  Multi task surrogate model, Attention | Semi-supervised          |   NO     |
-|    9     |       CT          | IEEE/CVF  |        Cross-Attention              |     Fully supervised        |   Yes    |
-|   10     |      CEM's        |  NeurIPS  |       CEM, Embedding Models         |     Fully supervised        |   NO     |
-|   11     |     CBM-AUC       |IEEE Access| Scene Categorization , saliency maps |     Unsupervised            |   NO     |
-|   12     |       CCE         |   ICML    | Counterfactual explanations and...  |     Fully supervised        |   Yes    |
-|   13     |       ICS         |   arXiv   |  Integrated Gradients and TCAV      |     Fully supervised        |   NO     |
-|   14     |   ConceptExtract  |IEEE TVCG  |  Active learning, Embedding...      |     Semi-supervised         |   NO     |
-|   15     |      OPE-CE       | IEEE ICMLA| Multi-label neural network with...  |     Fully supervised        |   NO     |
-|   16     |      GLANCE       |   arXiv   | Twin-surrogate model, causal graph  |     Weakly supervised       |   Yes    |
-|   17     |       ACE         |  Sensors  |   SLIC, k-means, TCAV               |     Fully supervised        |   NO     |
-|   18     |     TreeICE       |   arXiv   |  Decision Tree, CAV and NMF         |     Unsupervised            |   NO     |
-
+| NO | Name                      | Reference                                    | Publisher | Main Technologies                                | Code      |
+|----|---------------------------|----------------------------------------------|-----------|-------------------------------------------------|-----------|
+|    | CPM                       | [ICML](https://proceedings.icml.cc/book/4593) | SELF-EXPLANATION, Semi-supervised, Agnostic      | Local, Post-hoc                                 | [Yes](https://github.com/frankaging/Causal-Proxy-Model) |
+|    | CARs                      | [NeurIPS](https://proceedings.neurips.cc/paper/2022/hash/9c7245618d2a99c9e978f75a1f1e1b4a-Abstract.html) | Concept Activation Regions, Fully supervised, Specific | Both, Post-hoc | [Yes](https://github.com/JonathanCrabbe/CARs) and [Yes](https://github.com/vanderschaarlab/CARs) |
+|    | CLEF                      | [IJCAI](https://www.ijcai.org/proceedings/2023/774) | Counterfactual explanation, Semi-supervised, Agnostic | Local, Post-hoc | NO |
+|    | CRP                       | [arXiv](https://arxiv.org/abs/2204.01192) | Layer-wise Relevance Propagation, Relevance Maximization, Semi-supervised, Agnostic | Local, Post-hoc | [Yes](https://github.com/rachtibat/zennit-crp) |
+|    | ConceptExplainer          | [IEEE TVCG](https://ieeexplore.ieee.org/document/9561298) | Concept extraction and clustering, Interactive learning, Fully/Semi/Un-supervised, Agnostic | Both, Post-hoc | NO |
+|    | CoDEx                     | [arXiv](https://arxiv.org/abs/2206.04180) | Semantic Concept Video Classification, Fully supervised, Specific | Local, Self-explanation | NO |
+|    | UFDB-CBM                  | [arXiv](https://arxiv.org/abs/2204.07602) | Concept-based Models, Semi-supervised, Agnostic | Global, Post-hoc | NO |
+|    | ConceptDistil             | [arXiv](https://arxiv.org/abs/2201.08734) | Multi task surrogate model, Attention, Semi-supervised, Agnostic | Both, Post-hoc | NO |
+|    | CT                        | [IEEE/CVF](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Cross-Attention_for_Explainability_Improvement_ICCV_2021_paper.html) | Cross-Attention, Fully supervised, Agnostic | Local, Self-explanation | [Yes](https://github.com/ibm/concept_transformer) |
+|    | CEM's                     | [NeurIPS](https://proceedings.neurips.cc/paper/2022/hash/867c0682b1a2c8c7b7082f3d1dd4d8f7-Abstract.html) | CEM, Embedding Models, Fully supervised, Agnostic | Local, Post-hoc | NO |
+|    | CBM-AUC                   | [IEEE Access](https://ieeexplore.ieee.org/document/9632635) | Scene Categorization, saliency maps, Unsupervised, Specific | Both, Self-explanation | NO |
+|    | CCE                       | [ICML](https://proceedings.icml.cc/book/4593) | Counterfactual explanations and concept activation vectors, Fully supervised, Agnostic | Local, Post-hoc | [Yes](https://github.com/mertyg/debug-mistakes-cce) |
+|    | ICS                       | [arXiv](https://arxiv.org/abs/2206.03649) | Integrated Gradients and TCAV, Fully supervised, Agnostic | Both, Post-hoc | NO |
+|    | ConceptExtract            | [IEEE TVCG](https://ieeexplore.ieee.org/document/9523111) | Active learning, Embedding, data augmentation, Semi-supervised, Agnostic | Local, Post-hoc | NO |
+|    | OPE-CE                    | [IEEE ICMLA](https://ieeexplore.ieee.org/document/10069035) | Multi-label neural network with semantic loss, Fully supervised, Agnostic | Local, Post-hoc | NO |
+|    | GLANCE                    | [arXiv](https://arxiv.org/abs/2205.03666) | Twin-surrogate model, causal graph, Weakly supervised, Agnostic | Both, Post-hoc | [Yes](https://github.com/koriavinash1/GLANCE-Explanations) |
+|    | ACE                       | [Sensors](https://www.mdpi.com/1424-8220/22/4/1346) | SLIC, k-means, TCAV, Fully supervised, Specific | Global, Post-hoc | NO |
+|    | TreeICE                   | [arXiv](https://arxiv.org/abs/2202.09173) | Decision Tree, CAV and NMF, Unsupervised, Agnostic | Both, Post-hoc | NO |
 
 #### 2.2.3. YEAR 2021
 
