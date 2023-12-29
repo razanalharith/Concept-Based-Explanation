@@ -207,7 +207,7 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 #### 2.2.5. YEAR 2019
 |  Method Name| Paper        | Publisher                | Main Technologies                            | Code    |
 |----------|------------------|--------------------------|----------------------------------------------|---------|
-| ACE      | [paper](https://papers.nips.cc/paper_files/paper/2019/hash/77d2afcb31f6493e350fca61764efb9a-Abstract.html) | NeurIPS                  | Multi-resolution segmentation, Clustering     | Yes     |
+| ACE      | [paper](https://papers.nips.cc/paper_files/paper/2019/hash/77d2afcb31f6493e350fca61764efb9a-Abstract.html) | NeurIPS                  | Multi-resolution segmentation, Clustering     | [Yes](https://github.com/amiratag/ACE)     |
 | JargonLite | [paper](https://ieeexplore.ieee.org/document/8818822) | IEEE VL/HCC               | Web-based interactive dictionary             | NO      |
 | ASEIC    | [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1366/1/012084) | Journal of Physics      | Test instruments and descriptive statistics | NO      |
 
@@ -215,7 +215,7 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 |  Method Name| Paper        | Publisher                | Main Technologies                            | Code    |
 |----------|------------------|--------------------------|----------------------------------------------|---------|
 | SENNs    | [paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/3e9f0fc9b2f89e043bc6233994dfcf76-Abstract.html)      | Curran Associates Inc     | Self-explaining models, Gradient regularization | NO      |
-| MAPLE    | [paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/b495ce63ede0f4efc9eec62cb947c162-Abstract.html)      | IEEE Trans                | Local linear modeling with random forests    | Yes     |
+| MAPLE    | [paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/b495ce63ede0f4efc9eec62cb947c162-Abstract.html)      | IEEE Trans                | Local linear modeling with random forests    | [Yes](https://github.com/GDPlumb/MAPLE)     |
 | TCAV     | [paper](https://proceedings.mlr.press/v80/kim18d.html) | arXiv                    | Directional derivatives and linear classifiers | NO      |
 
 
