@@ -28,23 +28,26 @@
     - [2.2.5. YEAR 2019](#225-year-2019)
     - [2.2.6. YEAR 2018](#226-year-2018)
 
-##  2. Lists
+Certainly! To adjust the tables in GitHub-flavored Markdown format, you can use the following template:
 
-###  2.1. Common used Datasets Lists
+```markdown
+## 2. Lists
+
+### 2.1. Common used Datasets Lists
 
 #### 2.1.1 Image Datasets
 
-| No | Datasets| Year |Tasks 			  | URL				    |
-|---|----------|------|---------------------------|---------------------------------|
-| 1 | ImageNet | 2009 | Classification + Detection | [Yes](http://www.image-net.org/) |
-| 2 | Derm7pt  | 2019 | Detection                 | [Yes](https://derm.cs.sfu.ca/Welcome.html) |
-| 3 | Microsoft COCO | 2014 | Detection | [Yes](https://cocodataset.org/) |
-| 4 | Caltech-UCSD Birds-200-2011 (CUB) | 2011 | Classification | [Yes](https://www.vision.caltech.edu/datasets/cub_200_2011/) |
-| 5 | Animal with Attributes (AwA2) | 2018 | Classification | [Yes](https://paperswithcode.com/dataset/awa2-1) |
-| 6 | CIFAR-10 and CIFAR-100 | 2009 | Classification | [Yes](https://www.cs.toronto.edu/~kriz/cifar.html) |
-| 7 | Places365 | 2015 | Scene Recognition | [Yes](https://paperswithcode.com/dataset/places365) |
-| 8 | Skin Cancer MNIST: HAM10000 | 2018 | Detection | [Yes](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) |
-| 9 | NIH Chest X-ray | 2019 | Detection | [Yes](https://datasets.activeloop.ai/docs/ml/datasets/nih-chest-x-ray-dataset/) |
+| No | Datasets | Year | Tasks | URL |
+| -- | -------- | ---- | ----- | --- |
+| 1  | ImageNet | 2009 | Classification + Detection | [Yes](http://www.image-net.org/) |
+| 2  | Derm7pt  | 2019 | Detection | [Yes](https://derm.cs.sfu.ca/Welcome.html) |
+| 3  | Microsoft COCO | 2014 | Detection | [Yes](https://cocodataset.org/) |
+| 4  | Caltech-UCSD Birds-200-2011 (CUB) | 2011 | Classification | [Yes](https://www.vision.caltech.edu/datasets/cub_200_2011/) |
+| 5  | Animal with Attributes (AwA2) | 2018 | Classification | [Yes](https://paperswithcode.com/dataset/awa2-1) |
+| 6  | CIFAR-10 and CIFAR-100 | 2009 | Classification | [Yes](https://www.cs.toronto.edu/~kriz/cifar.html) |
+| 7  | Places365 | 2015 | Scene Recognition | [Yes](https://paperswithcode.com/dataset/places365) |
+| 8  | Skin Cancer MNIST: HAM10000 | 2018 | Detection | [Yes](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) |
+| 9  | NIH Chest X-ray | 2019 | Detection | [Yes](https://datasets.activeloop.ai/docs/ml/datasets/nih-chest-x-ray-dataset/) |
 | 10 | MIT-States | 2015 | Zero Shot Learning | [Yes](http://web.mit.edu/phillipi/Public/states_and_transformations/index.html) |
 | 11 | MNIST | 2010 | Classification | [Yes](http://yann.lecun.com/exdb/mnist/) |
 | 12 | Myocardial infarction complications | 2020 | Classification | [Yes](https://archive.ics.uci.edu/dataset/579/myocardial+infarction+complications) |
@@ -55,41 +58,41 @@
 | 17 | IP102 | 2019 | Classification | [Yes](https://github.com/xpwu95/IP102) |
 | 18 | MONK's Problems | 1992 | Classification | [Yes](https://archive.ics.uci.edu/dataset/70/monk+s+problems) |
 
-
 #### 2.2.2 Video Datasets
 
-| No | Datasets| Year |Tasks 			  | URL				    |
-|---|----------|------|---------------------------|---------------------------------|
-| 1  | Kinetics-700  | 2019 |Action recognition           | [Yes](https://github.com/open-mmlab/mmaction2/blob/main/tools/data/kinetics/README.md)    |
-| 2  | BDD-OIA       | 2020 |Scene Categorization   | [Yes](https://drive.google.com/drive/folders/1NzF-UKaakHRNcyghtaWDmc-Vpem7lyQ6)    | 
-| 3  | MSR-V2E A     | 2020 | Video classification       | No                     | 
+| No | Datasets | Year | Tasks | URL |
+| -- | -------- | ---- | ----- | --- |
+| 1 | Kinetics-700 | 2019 | Action recognition | [Yes](https://github.com/open-mmlab/mmaction2/blob/main/tools/data/kinetics/README.md) |
+| 2 | BDD-OIA | 2020 | Scene Categorization | [Yes](https://drive.google.com/drive/folders/1NzF-UKaakHRNcyghtaWDmc-Vpem7lyQ6) |
+| 3 | MSR-V2E A | 2020 | Video classification | No |
 
 #### 2.2.3 Text Datasets
-| No | Datasets| Year |Tasks 			  | URL				    |
-|---|----------|------|---------------------------|---------------------------------|
-|  1| CEBaB    | 2022 | NLP			   |[Yes](https://cebabing.github.io/CEBaB/)|
 
+| No | Datasets | Year | Tasks | URL |
+| -- | -------- | ---- | ----- | --- |
+| 1 | CEBaB | 2022 | NLP | [Yes](https://cebabing.github.io/CEBaB/) |
 
+#### 2.2.4 Chemistry Datasets
 
-#### 2.2.4 Chemistry  Datasets
-| No | Datasets| Year |Tasks 			  | URL				    |
-|---|----------|------|---------------------------|---------------------------------|
-| 1 | Mutagenicity(MUTAG) |1991 | Graph classification|[Yes](https://paperswithcode.com/sota/graph-classification-on-mutag)|
+| No | Datasets | Year | Tasks | URL |
+| -- | -------- | ---- | ----- | --- |
+| 1 | Mutagenicity (MUTAG) | 1991 | Graph classification | [Yes](https://paperswithcode.com/sota/graph-classification-on-mutag) |
 
 #### 2.2.5 Biology Datasets
-| No | Datasets| Year |Tasks 			  | URL				    |
-|---|----------|------|---------------------------|---------------------------------|
-| 1 | ENZYMES  | NA | Graph classification |[Yes](https://paperswithcode.com/dataset/enzymes)|
 
-
-
+| No | Datasets | Year | Tasks | URL |
+| -- | -------- | ---- | ----- | --- |
+| 1 | ENZYMES  | NA | Graph classification | [Yes](https://paperswithcode.com/dataset/enzymes) |
 
 #### 2.2.6 Graph Datasets
-| No | Datasets| Year |Tasks 			  | URL				    |
-|---|----------|------|---------------------------|---------------------------------|
-| 1 | REDDIT-BINARY |2015 | Graph classification |[Yes](https://paperswithcode.com/dataset/reddit-binary)|
-| 2 | BAShapes | 2017 | Graph classification|[Yes](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.BAShapes.html#torch-geometric-datasets-bashapes)|
 
+| No | Datasets | Year | Tasks | URL |
+| -- | -------- | ---- | ----- | --- |
+| 1 | REDDIT-BINARY | 2015 | Graph classification | [Yes](https://paperswithcode.com/dataset/reddit-binary) |
+| 2 | BAShapes | 2017 | Graph classification | [Yes](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.BAShapes.html#torch-geometric-datasets-bashapes) |
+```
+
+You can copy and paste this template into your GitHub repository, and it will display the tables correctly.
 ###  2.2. Papers List
 
 ####  2.2.1. YEAR 2023
