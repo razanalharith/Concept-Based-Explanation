@@ -97,7 +97,6 @@
 #### 2.2.2. YEAR 2022
 
 #### 2.2.3. YEAR 2021
-Here is the table in GitHub format with the requested columns:
 
 |No| Name | Reference | Publisher | Main Technologies | Code |
 |--|------|-----------|-----------|-------------------|------|
