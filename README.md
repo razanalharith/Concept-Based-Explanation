@@ -125,16 +125,16 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 | CIN |[paper](https://arxiv.org/abs/2302.13080) | arXiv | Graph Neural Network | [Yes](https://github.com/renmengye/interaction-concepts) |
 | Concept policy models |[paper](https://proceedings.mlr.press/v205/zabounidis23a.html) | PMLR | Multi-Agent Reinforcement Learning | No |
 | Reflective-Net | [paper](https://link.springer.com/article/10.1007/s10618-023-00920-0)| Springer | Reflection, Modified GradCAM | [Yes](https://github.com/JohnTailor/Reflective-Net-Learning-from-Explanations) |
-| CAVLI | [paper][10208704](https://openaccess.thecvf.com/...) | IEEE/CVF | Hybrid of TCAV and LIME | No |
-| AVCEG |[paper] [YuanLLY23](https://ieeexplore.ieee.org/...) | IEEE INDIN | Visual concept extraction, Segmentation | No |
-| ZEBRA |[paper] [10208711](https://openaccess.thecvf.com/...) | IEEE/CVF | Aggregation of Rarity and Rarity Score | No |
-| SSCE-MK |[paper] [xu2023statistically] | arXiv | Knockoff filter and concept sparsity regularization | No |
-| AC |[paper] [sevyeri2023transparent] | arXiv | Transformation-based anomaly detection with CBM | No |
-| PCX |[paper] [dreyer2023understanding] | arXiv | Gaussian Mixture Models, Prototypical prediction | [Yes](https://github.com/maxdreyer/pcx) |
-| EiX-GNN |[paper] [raison2023eixgnn] | arXiv | Graph centrality, Shapley value, concept generation | [Yes](https://github.com/araison12/eixgnn) |
-| L-CRP |[paper] [10208772](https://openaccess.thecvf.com/...) | IEEE/CVF | Concept Relevance Propagation | No |
-| Holistic Explanation | [10309800](https://ieeexplore.ieee.org/...) | IEEE FUZZ | Medoid-based concept reduction | No |
-| GX-HUI |[paper] [10196989](https://ieeexplore.ieee.org/...) | IEEE COMPSAC | High-Utility Itemset Mining, Shapley values | No |
+| CAVLI | [paper](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/html/Shukla_CAVLI_-_Using_Image_Associations_To_Produce_Local_Concept-Based_Explanations_CVPRW_2023_paper.html) | IEEE/CVF | Hybrid of TCAV and LIME | No |
+| AVCEG |[paper](https://ieeexplore.ieee.org/abstract/document/10217975) | IEEE INDIN | Visual concept extraction, Segmentation | No |
+| ZEBRA |[paper](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/html/Madeira_ZEBRA_Explaining_Rare_Cases_Through_Outlying_Interpretable_Concepts_CVPRW_2023_paper.html) | IEEE/CVF | Aggregation of Rarity and Rarity Score | No |
+| SSCE-MK |[paper](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/html/Madeira_ZEBRA_Explaining_Rare_Cases_Through_Outlying_Interpretable_Concepts_CVPRW_2023_paper.html) | arXiv | Knockoff filter and concept sparsity regularization | No |
+| AC |[paper](https://arxiv.org/abs/2310.10702) | arXiv | Transformation-based anomaly detection with CBM | No |
+| PCX |[paper](https://arxiv.org/abs/2311.16681) | arXiv | Gaussian Mixture Models, Prototypical prediction | [Yes](https://github.com/maxdreyer/pcx) |
+| EiX-GNN |[paper](https://arxiv.org/abs/2206.03491) | arXiv | Graph centrality, Shapley value, concept generation | [Yes](https://github.com/araison12/eixgnn) |
+| L-CRP |[paper](https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/html/Dreyer_Revealing_Hidden_Context_Bias_in_Segmentation_and_Object_Detection_Through_CVPRW_2023_paper.html)| IEEE/CVF | Concept Relevance Propagation | No |
+| Holistic Explanation | [paper](https://ieeexplore.ieee.org/abstract/document/10309800) | IEEE FUZZ | Medoid-based concept reduction | No |
+| GX-HUI |[paper](https://ieeexplore.ieee.org/abstract/document/10196989) | IEEE COMPSAC | High-Utility Itemset Mining, Shapley values | No |
 
 
 #### 2.2.2. YEAR 2022
