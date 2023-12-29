@@ -20,9 +20,8 @@ Concept-Based-Explanation methods.
 
 - [2. Paper List](#2-paper-list)
 
-  - [2. Paper List](#2-paper-list)
 
-  - [2.1. Datasets](#21-datasets)
+  - [2.1. Common used Datasets](#21-datasets)
     - [2.1.1 Image Datasets](#211-image-datasets)
     - [2.1.2 Video Datasets](#212-video-datasets)
     - [2.1.3 Text Datasets](#213-text-datasets)
@@ -112,4 +111,6 @@ Concept-Based-Explanation methods.
 #### 2.2.4. YEAR 2020
 
 #### 2.2.5. YEAR 2019
-#### [2.2.6. YEAR 2018]
+
+#### 2.2.6. YEAR 2018
+
