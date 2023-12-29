@@ -193,13 +193,13 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 
 |  Method Name| Paper | Publisher | Main Technologies | Code |
 |------|-----------|-----------|------------------|------|
-| CME | [Koh2020ConceptBM](https://arxiv.org/abs/2010.13233) | arXiv | Multi-task learning and model extraction | [Yes](https://github.com/dmitrykazhdan/CME) |
-| CBM | [9658985](https://ieeexplore.ieee.org/document/9658985) | IEEE SMC | Concept bottleneck models | [Yes](https://github.com/yewsiang/ConceptBottleneck) |
-| AFI | [9156987](https://openaccess.thecvf.com/content_CVPR_2020/html/Koh_Factorized_BERT_Training_for_Long-Term_Retrospective_Analysis_of_Clinical_Notes_CVPR_2020_paper.html) | IEEE/CVF | Feature occlusion and CAV | NO |
-| ConceptSHAP | [NEURIPS2020_ecb287ff](https://papers.nips.cc/paper/2020/hash/ecb287ffc2ee6d2f08f0b3d6a9e7c9f8-Abstract.html) | NeurIPS | Shapley values, topic modeling | [Yes](https://github.com/chihkuanyeh/concept_exp) |
+| CME | [paper](https://proceedings.mlr.press/v119/koh20a.html) | ICML | Multi-task learning and model extraction | [Yes](https://github.com/dmitrykazhdan/CME) |
+| CBM | [paper](https://ieeexplore.ieee.org/abstract/document/9658985) | IEEE SMC | Concept bottleneck models | [Yes](https://github.com/yewsiang/ConceptBottleneck) |
+| AFI | [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Towards_Global_Explanations_of_Convolutional_Neural_Networks_With_Concept_Attribution_CVPR_2020_paper.html) | IEEE/CVF | Feature occlusion and CAV | NO |
+| ConceptSHAP | [paper](https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html) | NeurIPS | Shapley values, topic modeling | [Yes](https://github.com/chihkuanyeh/concept_exp) |
 | CW | [Chen_2020](https://link.springer.com/chapter/10.1007/978-3-030-65347-7_16) | Springer | Whitening and orthogonal transformation | NO |
-| XGL | [popordanoska2020machine](https://arxiv.org/abs/2010.00385) | arXiv | Global explanations and interactive learning | NO |
-| ILIC | [lage2020learning](https://arxiv.org/abs/2006.16152) | arXiv | Gaussian random field | NO |
+| XGL | [paper](https://arxiv.org/abs/2009.09723) | arXiv | Global explanations and interactive learning | NO |
+| ILIC | [paper](https://arxiv.org/abs/2012.02898) | arXiv | Gaussian random field | NO |
 | CSIB | [paper](https://openaccess.thecvf.com/content/ACCV2020/html/Marcos_Contextual_Semantic_Interpretability_ACCV_2020_paper.html) | Asian Conference | Sparse grouping layer and top-K activation layer | NO |
 | MAME | [paper](https://proceedings.neurips.cc/paper/2020/hash/426f990b332ef8193a61cc90516c1245-Abstract.html) | NeurIPS | Algorithmic Regularization (AR) | NO |
 | DCA | [9284131](https://ieeexplore.ieee.org/abstract/document/9284131) | IEEE ICWS | Hierarchical co-attention mechanism | NO |
