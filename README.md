@@ -207,9 +207,9 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 #### 2.2.5. YEAR 2019
 | Name     | Reference        | Publisher                | Main Technologies                            | Code    |
 |----------|------------------|--------------------------|----------------------------------------------|---------|
-| ACE      | [105555](#105555) | NeurIPS                  | Multi-resolution segmentation, Clustering     | Yes     |
-| JargonLite | [8818822](#8818822) | IEEE VL/HCC               | Web-based interactive dictionary             | NO      |
-| ASEIC    | [Ramdani2019](#Ramdani2019) | Journal of Physics      | Test instruments and descriptive statistics | NO      |
+| ACE      | [paper](https://papers.nips.cc/paper_files/paper/2019/hash/77d2afcb31f6493e350fca61764efb9a-Abstract.html) | NeurIPS                  | Multi-resolution segmentation, Clustering     | Yes     |
+| JargonLite | [paper](https://ieeexplore.ieee.org/document/8818822) | IEEE VL/HCC               | Web-based interactive dictionary             | NO      |
+| ASEIC    | [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1366/1/012084) | Journal of Physics      | Test instruments and descriptive statistics | NO      |
 
 #### 2.2.6. YEAR 2018
 | Name     | Reference        | Publisher                | Main Technologies                            | Code    |
