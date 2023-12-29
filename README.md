@@ -11,16 +11,13 @@ Concept-Based-Explanation methods.
 < **Last updated: 29/12/2023** >
 
 
-##  1. Content
+## 1. Content
 
-
-- [List for Concept-Based-Explanation methods]
-	- [1. Content](#1-content)
-	- [2. Lists](#2-lists)
+- [List for Concept-Based-Explanation methods](#list-for-concept-based-explanation-methods)
+  - [1. Content](#1-content)
+  - [2. Lists](#2-lists)
 
 - [2. Lists](#2-list)
-
-
   - [2.1. Common used Datasets Lists](#21-datasets)
     - [2.1.1 Image Datasets](#211-image-datasets)
     - [2.1.2 Video Datasets](#212-video-datasets)
@@ -29,15 +26,13 @@ Concept-Based-Explanation methods.
     - [2.1.5 Biology Datasets](#215-biology-datasets)
     - [2.1.6 Graph Datasets](#216-graph-datasets)
 
-
-
-- [2.2. Concept-Based-Explanation methods paper's Lists](#22-concept-based-explanation-methods)
-  - [2.2.1. YEAR 2023](#221-year-2023)
-  - [2.2.2. YEAR 2022](#222-year-2022)
-  - [2.2.3. YEAR 2021](#223-year-2021)
-  - [2.2.4. YEAR 2020](#224-year-2020)
-  - [2.2.5. YEAR 2019](#225-year-2019)
-  - [2.2.6. YEAR 2018](#226-year-2018)
+  - [2.2. Concept-Based-Explanation methods Lists](#22-concept-based-explanation-methods)
+    - [2.2.1. YEAR 2023](#221-year-2023)
+    - [2.2.2. YEAR 2022](#222-year-2022)
+    - [2.2.3. YEAR 2021](#223-year-2021)
+    - [2.2.4. YEAR 2020](#224-year-2020)
+    - [2.2.5. YEAR 2019](#225-year-2019)
+    - [2.2.6. YEAR 2018](#226-year-2018)
 
 ##  2. Lists
 
