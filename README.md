@@ -31,12 +31,12 @@ Concept-Based-Explanation methods.
 
 
   - [2.2. Concept-Based-Explanation methods Lists](#22-concept-based-explanation-methods)
-    - [2.2.1. YEAR 2023]
-    - [2.2.2. YEAR 2022]
-    - [2.2.3. YEAR 2021]
-    - [2.2.4. YEAR 2020]
-    - [2.2.5. YEAR 2019]
-    - [2.2.6. YEAR 2018]
+    - [2.2.1. YEAR 2023](#023- YEAR 2023)
+    - [2.2.2. YEAR 2022](#022- YEAR 2022)
+    - [2.2.3. YEAR 2021](#021- YEAR 2021)
+    - [2.2.4. YEAR 2020](#020- YEAR 2020)
+    - [2.2.5. YEAR 2019](#019- YEAR 2019)
+    - [2.2.6. YEAR 2018](#018- YEAR 2018)
 
 ##  2. Lists
 
@@ -99,8 +99,7 @@ Concept-Based-Explanation methods.
 | 1 | REDDIT-BINARY |2015 | Graph classification |[Yes](https://paperswithcode.com/dataset/reddit-binary)|
 | 2 | BAShapes | 2017 | Graph classification|[Yes](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.BAShapes.html#torch-geometric-datasets-bashapes)|
 
-###  2.2. Papers
-
+###  2.2. Papers List
 
 ####  2.2.1. YEAR 2023
 
