@@ -141,24 +141,24 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 
 |  Method Name          | Paper                                                | Publisher | Main Technologies                            | Code                                                 |
 |---------------|----------------------------------------------------------|-----------|----------------------------------------------|------------------------------------------------------|
-| CPM           | [ICML](https://arxiv.org/abs/2202.12345)                 | ICML      | Self-explanation, Semi-supervised, Agnostic  | [Yes](https://github.com/frankaging/Causal-Proxy-Model) |
-| CARs          | [NeurIPS](https://arxiv.org/abs/2201.23456)              | NeurIPS   | Concept Activation Regions, Fully supervised | [GitHub 1](https://github.com/JonathanCrabbe/CARs) and [GitHub 2](https://github.com/vanderschaarlab/CARs) |
-| CLEF          | [IJCAI](https://doi.org/10.12345/ijcai2023p774)          | IJCAI     | Counterfactual explanation, Semi-supervised  | No                                                   |
-| CRP           | [arXiv](https://arxiv.org/abs/2203.34567)                | arXiv     | Layer-wise Relevance Propagation, Relevance Maximization | [Yes](https://github.com/rachtibat/zennit-crp) |
-| ConceptExplainer | [IEEE TVCG](https://doi.org/10.1109/TVCG.2022.34567)    | IEEE TVCG | Concept extraction and clustering, Interactive learning | No |
-| CoDEx         | [arXiv](https://arxiv.org/abs/2204.45678)                | arXiv     | Semantic Concept Video Classification, Fully supervised | No |
-| UFDB-CBM      | [arXiv](https://arxiv.org/abs/2205.56789)                | arXiv     | Concept-based Models, Semi-supervised         | No                                                   |
-| ConceptDistil | [arXiv](https://arxiv.org/abs/2206.67890)                | arXiv     | Multi-task surrogate model, Attention         | No                                                   |
-| CT            | [IEEE/CVF](https://doi.org/10.1109/CVPR.2022.12345)      | IEEE/CVF  | Cross-Attention, Fully supervised             | [Yes](https://github.com/ibm/concept_transformer) |
-| CEM's         | [NeurIPS](https://doi.org/10.12345/neurips.2022.12345)   | NeurIPS   | CEM, Embedding Models, Fully supervised       | No                                                   |
-| CBM-AUC       | [IEEE Access](https://doi.org/10.1109/ACCESS.2022.34567) | IEEE Access | Scene Categorization, Saliency maps           | No                                                   |
-| CCE           | [ICML](https://arxiv.org/abs/2207.78901)                 | ICML      | Counterfactual explanations, Concept activation vectors | [Yes](https://github.com/mertyg/debug-mistakes-cce) |
-| ICS           | [arXiv](https://arxiv.org/abs/2208.90123)                | arXiv     | Integrated Gradients and TCAV, Fully supervised | No |
-| ConceptExtract | [IEEE TVCG](https://doi.org/10.1109/TVCG.2022.90123)     | IEEE TVCG | Active learning, Embedding, Data augmentation | No |
-| OPE-CE        | [IEEE ICMLA](https://doi.org/10.1109/ICMLA.2022.12345)   | IEEE ICMLA | Multi-label neural network with semantic loss | No |
-| GLANCE        | [arXiv](https://arxiv.org/abs/2209.23456)                | arXiv     | Twin-surrogate model, Causal graph, Weakly supervised | [Yes](https://github.com/koriavinash1/GLANCE-Explanations) |
-| ACE           | [Sensors](https://doi.org/10.3390/s22145346)             | Sensors   | SLIC, k-means, TCAV, Fully supervised        | No                                                   |
-| TreeICE       | [arXiv](https://arxiv.org/abs/2210.34567)                | arXiv     | Decision Tree, CAV and NMF, Unsupervised      | No                                                   |
+| CPM           | [paper]()                 | ICML      | Self-explanation, Semi-supervised, Agnostic  | [Yes](https://github.com/frankaging/Causal-Proxy-Model) |
+| CARs          | [paper]()             | NeurIPS   | Concept Activation Regions, Fully supervised | [GitHub 1](https://github.com/JonathanCrabbe/CARs) and [GitHub 2](https://github.com/vanderschaarlab/CARs) |
+| CLEF          |[paper]()        | IJCAI     | Counterfactual explanation, Semi-supervised  | No                                                   |
+| CRP           | [paper]()           | arXiv     | Layer-wise Relevance Propagation, Relevance Maximization | [Yes](https://github.com/rachtibat/zennit-crp) |
+| ConceptExplainer |[paper]()   | IEEE TVCG | Concept extraction and clustering, Interactive learning | No |
+| CoDEx         | [paper]()              | arXiv     | Semantic Concept Video Classification, Fully supervised | No |
+| UFDB-CBM      | [paper]()             | arXiv     | Concept-based Models, Semi-supervised         | No                                                   |
+| ConceptDistil | [paper]()              | arXiv     | Multi-task surrogate model, Attention         | No                                                   |
+| CT            | [paper]()     | IEEE/CVF  | Cross-Attention, Fully supervised             | [Yes](https://github.com/ibm/concept_transformer) |
+| CEM's         | [paper]()   | NeurIPS   | CEM, Embedding Models, Fully supervised       | No                                                   |
+| CBM-AUC       | [paper]()| IEEE Access | Scene Categorization, Saliency maps           | No                                                   |
+| CCE           | [paper]()              | ICML      | Counterfactual explanations, Concept activation vectors | [Yes](https://github.com/mertyg/debug-mistakes-cce) |
+| ICS           | [paper]()                | arXiv     | Integrated Gradients and TCAV, Fully supervised | No |
+| ConceptExtract | [paper]()    | IEEE TVCG | Active learning, Embedding, Data augmentation | No |
+| OPE-CE        | [paper]()   | IEEE ICMLA | Multi-label neural network with semantic loss | No |
+| GLANCE        | [paper]()                | arXiv     | Twin-surrogate model, Causal graph, Weakly supervised | [Yes](https://github.com/koriavinash1/GLANCE-Explanations) |
+| ACE           | [paper]()            | Sensors   | SLIC, k-means, TCAV, Fully supervised        | No                                                   |
+| TreeICE       | [paper]()        | arXiv     | Decision Tree, CAV and NMF, Unsupervised      | No                                                   |
 
 
 #### 2.2.3. YEAR 2021
