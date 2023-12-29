@@ -3,9 +3,7 @@
 
 Concept-Based-Explanation methods.
 
-<p align="center">
-    <img src="polyp.png"/> <br />
-</p>
+
 
 # <p align=center>`Concept-Based-Explanation`
 
@@ -20,6 +18,8 @@ Concept-Based-Explanation methods.
 	- [1. Content](#1-content)
 	- [2. Paper List](#2-paper-list)
 		- [2.1. Datasets]
+  - 
+  - 2.1.1 Image Datasets
   - 			2.2.2 Video Datasets
   - 			2.2.3 Text Datasets
   - 			2.2.4 Chemistry  Datasets
@@ -67,7 +67,7 @@ Concept-Based-Explanation methods.
 |---|----------|------|---------------------------|---------------------------------|
 | 1  | Kinetics-700  | 2019 |Action recognition           | [Yes](https://github.com/open-mmlab/mmaction2/blob/main/tools/data/kinetics/README.md)    |
 | 2  | BDD-OIA       | 2020 |Scene Categorization   | [Yes](https://drive.google.com/drive/folders/1NzF-UKaakHRNcyghtaWDmc-Vpem7lyQ6)    | 
-| 3  | MSR-V2E A     | 2020 Video classification       | No                     | 
+| 3  | MSR-V2E A     | 2020 | Video classification       | No                     | 
 
 2.2.3 Text Datasets
 | No | Datasets| Year |Tasks 			  | URL				    |
