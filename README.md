@@ -53,9 +53,7 @@ Concept-Based-Explanation methods.
 |                   | CelebA                               | 2018  | Detection               | [Yes](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)                                   |
 |                   | SUN attribute                         | 2010  | Scene Categorization     | [Yes](https://vision.princeton.edu/projects/2010/SUN/)                                   |
 |                   | IP102                                | 2019  | Classification          | [Yes](https://github.com/xpwu95/IP102)                                                    |
-|                   | MONK's                               | 1992  |                         |
-
-
+|                   | MONK's                               | 1992  |  Classification    | [Yes] (https://archive.ics.uci.edu/dataset/70/monk+s+problems)
 
 ###  2.2. Papers
 
