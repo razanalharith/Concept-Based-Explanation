@@ -16,12 +16,12 @@ Concept-Based-Explanation methods.
 
 - [List for Concept-Based-Explanation methods]
 	- [1. Content](#1-content)
-	- [2. Paper List](#2-paper-list)
+	- [2. Lists](#2-lists)
 
-- [2. Paper List](#2-paper-list)
+- [2. Lists](#2-list)
 
 
-  - [2.1. Common used Datasets](#21-datasets)
+  - [2.1. Common used Datasets Lists](#21-datasets)
     - [2.1.1 Image Datasets](#211-image-datasets)
     - [2.1.2 Video Datasets](#212-video-datasets)
     - [2.1.3 Text Datasets](#213-text-datasets)
@@ -30,7 +30,7 @@ Concept-Based-Explanation methods.
     - [2.1.6 Graph Datasets](#216-graph-datasets)
 
 
-  - [2.2. Concept-Based-Explanation methods](#22-concept-based-explanation-methods)
+  - [2.2. Concept-Based-Explanation methods Lists](#22-concept-based-explanation-methods)
     - [2.2.1. YEAR 2023]
     - [2.2.2. YEAR 2022]
     - [2.2.3. YEAR 2021]
