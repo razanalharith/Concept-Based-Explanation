@@ -100,18 +100,18 @@
 
 #### 2.2.4. YEAR 2020
 |No| Name       | Publisher    | Main Technologies                            | Code                                 |
-|1|------------|--------------|----------------------------------------------|--------------------------------------|
-|2| CME        | arXiv        | Multi-task learning and model extraction      | [Yes](https://github.com/dmitrykazhdan/CME) |
-|3| CBM        | IEEE SMC     | Concept bottleneck models                     | [Yes](https://github.com/yewsiang/ConceptBottleneck) |
-|4| AFI        | IEEE/CVF     | Feature occlusion and CAV                     | NO                                   |
-|5| ConceptSHAP | NeurIPS      | Shapley values, topic modeling                | [Yes](https://github.com/chihkuanyeh/concept_exp) |
-|6| CW         | Springer     | Whitening and orthogonal transformation       | NO                                   |
-|7| XGL        | arXiv        | Global explanations and interactive learning | NO                                   |
-|8| ILIC       | arXiv        | Gaussian random field                         | NO                                   |
-|9| CSIB       | Asian Conference | Sparse grouping layer and top-K activation layer | NO                                   |
-|10| MAME       | NeurIPS      | Algorithmic Regularization (AR)               | NO                                   |
-|11| DCA        | IEEE ICWS    | Hierarchical co-attention mechanism            | NO                                   |
-|12| ICE        | AAAI         | Non-negative matrix factorization (NMF) on feature maps | NO                                   |
+|-|------------|--------------|----------------------------------------------|--------------------------------------|
+|1| CME        | arXiv        | Multi-task learning and model extraction      | [Yes](https://github.com/dmitrykazhdan/CME) |
+|2| CBM        | IEEE SMC     | Concept bottleneck models                     | [Yes](https://github.com/yewsiang/ConceptBottleneck) |
+|3| AFI        | IEEE/CVF     | Feature occlusion and CAV                     | NO                                   |
+|4| ConceptSHAP | NeurIPS      | Shapley values, topic modeling                | [Yes](https://github.com/chihkuanyeh/concept_exp) |
+|5| CW         | Springer     | Whitening and orthogonal transformation       | NO                                   |
+|6| XGL        | arXiv        | Global explanations and interactive learning | NO                                   |
+|7| ILIC       | arXiv        | Gaussian random field                         | NO                                   |
+|8| CSIB       | Asian Conference | Sparse grouping layer and top-K activation layer | NO                                   |
+|9| MAME       | NeurIPS      | Algorithmic Regularization (AR)               | NO                                   |
+|10| DCA        | IEEE ICWS    | Hierarchical co-attention mechanism            | NO                                   |
+|11| ICE        | AAAI         | Non-negative matrix factorization (NMF) on feature maps | NO                                   |
 #### 2.2.5. YEAR 2019
 | No | Name        | Reference        | Publisher               | Main Technologies                            | Code |
 |------|-------------|------------------|-------------------------|----------------------------------------------|------|
