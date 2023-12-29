@@ -32,10 +32,10 @@ Concept-Based-Explanation methods.
 ##  2. Paper List
 
 ###  2.1. Datasets 
+2.1.1 **Image Datasets** 
 
 |                   | Datasets                             | Year  | Tasks                   | URL                                                                                      |
-|-------------------|--------------------------------------|-------|-------------------------|------------------------------------------------------------------------------------------|
-| **Image**         |                                                                                                                                                           
+|-------------------|--------------------------------------|-------|-------------------------|------------------------------------------------------------------------------------------|                                                                                                                                                              
 |                   | ImageNet                             | 2009  | Classification + Detection | [Yes](http://www.image-net.org/)                                                          |
 |                   | Derm7pt                              | 2019  | Detection               | [Yes](https://derm.cs.sfu.ca/Welcome.html)                                               |
 |                   | Microsoft COCO                       | 2014  | Detection               | [Yes](https://cocodataset.org/)                                                           |
