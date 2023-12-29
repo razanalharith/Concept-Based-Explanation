@@ -105,36 +105,36 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 | ProbCBM              |[paper](https://arxiv.org/abs/2306.01574)          | JMLR       | CBM, Probabilistic embeddings                      | [Yes](https://github.com/ejkim47/prob-cbm) |
 | BotCL                | BotCL\cite{wang2023learning}                                     | IEEE/CVF   | Self-supervision, Concept regularizers and extractor | [Yes](https://github.com/wbw520/BotCL) |
 | Label-free CBM       | L{oikarinen2023labelfree}                      | ICLR       | Concept bottleneck layer learning                   | [Yes](https://github.com/Trustworthy-ML-Lab/Label-free-CBM) |
-| Labo                 |{Yang_2023_CVPR}                                      | IEEE/CVF   | Language model, CBM                                | [Yes](https://github.com/YueYANG1996/LaBo) |
-| IC via CBM           |{Yan2023RobustAI}                               | arXiv      | Concept elicitation, projection and classification  | No                                        |
-| GLGExplainer         | {azzolin2023global}                          | ICLR       | Concept Projection and concept activation vectors   | [Yes](https://github.com/steveazzolin/gnn_logic_global_expl) |
-| MCD                  | {vielhaben2023}                                          | arXiv      | Sparse subspace clustering (SSC), principal component analysis (PCA) | No                                        |
+| Labo                 |[paper]{Yang_2023_CVPR}                                      | IEEE/CVF   | Language model, CBM                                | [Yes](https://github.com/YueYANG1996/LaBo) |
+| IC via CBM           |{[paper]Yan2023RobustAI}                               | arXiv      | Concept elicitation, projection and classification  | No                                        |
+| GLGExplainer         | [paper]{azzolin2023global}                          | ICLR       | Concept Projection and concept activation vectors   | [Yes](https://github.com/steveazzolin/gnn_logic_global_expl) |
+| MCD                  |[paper]{vielhaben2023}                                          | arXiv      | Sparse subspace clustering (SSC), principal component analysis (PCA) | No                                        |
 | CompMap              | {yun2023do}                                        | TMLR       | Vision language models                             | [Yes](https://github.com/tttyuntian/vlm_primitive_concepts) |
-| TabCBM               |{espinosa}                                           | TMLR       | Concept score and activation                        | No                                        |
-| DCR                  |{Barbiero84}                                           | JMLR       | Fuzzy logic operators, concept embeddings           | [Yes](https://github.com/pietrobarbiero/pytorch_explain) |
-| CG                   | {bai2022concept}                                        | arXiv      | CAV, Gradients                                     | [Yes](https://github.com/jybai/concept-gradients) |
-| OOD Detector         | {choi2023conceptbased}                        | PMLR       | Detection completeness, concept separability         | No                                        |
-| CRAFT                |{10205223}                                           | IEEE/CVF   | Non-Negative Matrix Factorization                    | No                                        |
-| STCE                 | {10203851}                                            | IEEE/CVF   | Spatial-temporal volumes, ConvNets, CAV             | [Yes](https://github.com/yingji425/STCE) |
-| CounTEX              | {10203370}                                          | IEEE/CVF   | CLIP, Counterfactual optimization                   | No                                        |
-| UID                  | {Liu_2023}                                              | IEEE/CVF   | Conditional energy-based model (EBM) distribution   | [Yes](https://energy-based-model.github.io/unsupervised-concept-discovery/) |
-| PCBMs                | {yuksekgonul2023posthoc}                              | arXiv      | CAV, embeddings                                    | [Yes](https://github.com/mertyg/post-hoc-cbm) |
-| CCT                  | {hong2023conceptcentric}                               | arXiv      | Cross-Attention, Concept-Slot-Attention              | No                                        |
-| CPMs | [panousis2023hierarchical] | arXiv | CBMs, objective function | [Yes](https://github.com/CPMs) |
-| CB with VCF | [kim2023concept]| Springer | CBM, visual activation score, concept scores | No |
-| CIN | [li2023does] | arXiv | Graph Neural Network | [Yes](https://github.com/renmengye/interaction-concepts) |
-| Concept policy models | [pmlr-v205-zabounidis23a](http://proceedings.mlr.press/v205/zabounidis23a.html) | PMLR | Multi-Agent Reinforcement Learning | No |
-| Reflective-Net | [Schneider_2023]| Springer | Reflection, Modified GradCAM | [Yes](https://github.com/JohnTailor/Reflective-Net-Learning-from-Explanations) |
-| CAVLI | [10208704](https://openaccess.thecvf.com/...) | IEEE/CVF | Hybrid of TCAV and LIME | No |
-| AVCEG | [YuanLLY23](https://ieeexplore.ieee.org/...) | IEEE INDIN | Visual concept extraction, Segmentation | No |
-| ZEBRA | [10208711](https://openaccess.thecvf.com/...) | IEEE/CVF | Aggregation of Rarity and Rarity Score | No |
-| SSCE-MK | [xu2023statistically] | arXiv | Knockoff filter and concept sparsity regularization | No |
-| AC | [sevyeri2023transparent] | arXiv | Transformation-based anomaly detection with CBM | No |
-| PCX | [dreyer2023understanding] | arXiv | Gaussian Mixture Models, Prototypical prediction | [Yes](https://github.com/maxdreyer/pcx) |
-| EiX-GNN | [raison2023eixgnn] | arXiv | Graph centrality, Shapley value, concept generation | [Yes](https://github.com/araison12/eixgnn) |
-| L-CRP | [10208772](https://openaccess.thecvf.com/...) | IEEE/CVF | Concept Relevance Propagation | No |
+| TabCBM               |[paper]{espinosa}                                           | TMLR       | Concept score and activation                        | No                                        |
+| DCR                  |[paper]{Barbiero84}                                           | JMLR       | Fuzzy logic operators, concept embeddings           | [Yes](https://github.com/pietrobarbiero/pytorch_explain) |
+| CG                   | [paper]{bai2022concept}                                        | arXiv      | CAV, Gradients                                     | [Yes](https://github.com/jybai/concept-gradients) |
+| OOD Detector         |[paper] {choi2023conceptbased}                        | PMLR       | Detection completeness, concept separability         | No                                        |
+| CRAFT                |[paper]{10205223}                                           | IEEE/CVF   | Non-Negative Matrix Factorization                    | No                                        |
+| STCE                 |[paper] {10203851}                                            | IEEE/CVF   | Spatial-temporal volumes, ConvNets, CAV             | [Yes](https://github.com/yingji425/STCE) |
+| CounTEX              | [paper]{10203370}                                          | IEEE/CVF   | CLIP, Counterfactual optimization                   | No                                        |
+| UID                  | [paper]{Liu_2023}                                              | IEEE/CVF   | Conditional energy-based model (EBM) distribution   | [Yes](https://energy-based-model.github.io/unsupervised-concept-discovery/) |
+| PCBMs                |[paper] {yuksekgonul2023posthoc}                              | arXiv      | CAV, embeddings                                    | [Yes](https://github.com/mertyg/post-hoc-cbm) |
+| CCT                  |[paper] {hong2023conceptcentric}                               | arXiv      | Cross-Attention, Concept-Slot-Attention              | No                                        |
+| CPMs |[paper] [panousis2023hierarchical] | arXiv | CBMs, objective function | [Yes](https://github.com/CPMs) |
+| CB with VCF |[paper] [kim2023concept]| Springer | CBM, visual activation score, concept scores | No |
+| CIN |[paper] [li2023does] | arXiv | Graph Neural Network | [Yes](https://github.com/renmengye/interaction-concepts) |
+| Concept policy models |[paper] [pmlr-v205-zabounidis23a](http://proceedings.mlr.press/v205/zabounidis23a.html) | PMLR | Multi-Agent Reinforcement Learning | No |
+| Reflective-Net | [paper][Schneider_2023]| Springer | Reflection, Modified GradCAM | [Yes](https://github.com/JohnTailor/Reflective-Net-Learning-from-Explanations) |
+| CAVLI | [paper][10208704](https://openaccess.thecvf.com/...) | IEEE/CVF | Hybrid of TCAV and LIME | No |
+| AVCEG |[paper] [YuanLLY23](https://ieeexplore.ieee.org/...) | IEEE INDIN | Visual concept extraction, Segmentation | No |
+| ZEBRA |[paper] [10208711](https://openaccess.thecvf.com/...) | IEEE/CVF | Aggregation of Rarity and Rarity Score | No |
+| SSCE-MK |[paper] [xu2023statistically] | arXiv | Knockoff filter and concept sparsity regularization | No |
+| AC |[paper] [sevyeri2023transparent] | arXiv | Transformation-based anomaly detection with CBM | No |
+| PCX |[paper] [dreyer2023understanding] | arXiv | Gaussian Mixture Models, Prototypical prediction | [Yes](https://github.com/maxdreyer/pcx) |
+| EiX-GNN |[paper] [raison2023eixgnn] | arXiv | Graph centrality, Shapley value, concept generation | [Yes](https://github.com/araison12/eixgnn) |
+| L-CRP |[paper] [10208772](https://openaccess.thecvf.com/...) | IEEE/CVF | Concept Relevance Propagation | No |
 | Holistic Explanation | [10309800](https://ieeexplore.ieee.org/...) | IEEE FUZZ | Medoid-based concept reduction | No |
-| GX-HUI | [10196989](https://ieeexplore.ieee.org/...) | IEEE COMPSAC | High-Utility Itemset Mining, Shapley values | No |
+| GX-HUI |[paper] [10196989](https://ieeexplore.ieee.org/...) | IEEE COMPSAC | High-Utility Itemset Mining, Shapley values | No |
 
 
 #### 2.2.2. YEAR 2022
