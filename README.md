@@ -99,7 +99,19 @@
 #### 2.2.3. YEAR 2021
 
 #### 2.2.4. YEAR 2020
-
+| Name       | Publisher    | Main Technologies                            | Code                                 |
+|------------|--------------|----------------------------------------------|--------------------------------------|
+| CME        | arXiv        | Multi-task learning and model extraction      | [Yes](https://github.com/dmitrykazhdan/CME) |
+| CBM        | IEEE SMC     | Concept bottleneck models                     | [Yes](https://github.com/yewsiang/ConceptBottleneck) |
+| AFI        | IEEE/CVF     | Feature occlusion and CAV                     | NO                                   |
+| ConceptSHAP | NeurIPS      | Shapley values, topic modeling                | [Yes](https://github.com/chihkuanyeh/concept_exp) |
+| CW         | Springer     | Whitening and orthogonal transformation       | NO                                   |
+| XGL        | arXiv        | Global explanations and interactive learning | NO                                   |
+| ILIC       | arXiv        | Gaussian random field                         | NO                                   |
+| CSIB       | Asian Conference | Sparse grouping layer and top-K activation layer | NO                                   |
+| MAME       | NeurIPS      | Algorithmic Regularization (AR)               | NO                                   |
+| DCA        | IEEE ICWS    | Hierarchical co-attention mechanism            | NO                                   |
+| ICE        | AAAI         | Non-negative matrix factorization (NMF) on feature maps | NO                                   |
 #### 2.2.5. YEAR 2019
 
 #### 2.2.6. YEAR 2018
