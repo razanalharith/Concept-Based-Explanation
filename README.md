@@ -148,29 +148,24 @@ Please note that some entries do not have code available.
 
 
 #### 2.2.4. YEAR 2020
-|No| Name       | Publisher    | Main Technologies                            | Code                                 |
-|-|------------|--------------|----------------------------------------------|--------------------------------------|
-|1| CME        | arXiv        | Multi-task learning and model extraction      | [Yes](https://github.com/dmitrykazhdan/CME) |
-|2| CBM        | IEEE SMC     | Concept bottleneck models                     | [Yes](https://github.com/yewsiang/ConceptBottleneck) |
-|3| AFI        | IEEE/CVF     | Feature occlusion and CAV                     | NO                                   |
-|4| ConceptSHAP | NeurIPS      | Shapley values, topic modeling                | [Yes](https://github.com/chihkuanyeh/concept_exp) |
-|5| CW         | Springer     | Whitening and orthogonal transformation       | NO                                   |
-|6| XGL        | arXiv        | Global explanations and interactive learning | NO                                   |
-|7| ILIC       | arXiv        | Gaussian random field                         | NO                                   |
-|8| CSIB       | Asian Conference | Sparse grouping layer and top-K activation layer | NO                                   |
-|9| MAME       | NeurIPS      | Algorithmic Regularization (AR)               | NO                                   |
-|10| DCA        | IEEE ICWS    | Hierarchical co-attention mechanism            | NO                                   |
-|11| ICE        | AAAI         | Non-negative matrix factorization (NMF) on feature maps | NO                                   |
+Here is the table in GitHub format:
+
+| Name | Reference | Publisher | Main Technologies | Code |
+|------|-----------|-----------|------------------|------|
+| CME | [Koh2020ConceptBM](https://arxiv.org/abs/2010.13233) | arXiv | Multi-task learning and model extraction | [Yes](https://github.com/dmitrykazhdan/CME) |
+| CBM | [9658985](https://ieeexplore.ieee.org/document/9658985) | IEEE SMC | Concept bottleneck models | [Yes](https://github.com/yewsiang/ConceptBottleneck) |
+| AFI | [9156987](https://openaccess.thecvf.com/content_CVPR_2020/html/Koh_Factorized_BERT_Training_for_Long-Term_Retrospective_Analysis_of_Clinical_Notes_CVPR_2020_paper.html) | IEEE/CVF | Feature occlusion and CAV | NO |
+| ConceptSHAP | [NEURIPS2020_ecb287ff](https://papers.nips.cc/paper/2020/hash/ecb287ffc2ee6d2f08f0b3d6a9e7c9f8-Abstract.html) | NeurIPS | Shapley values, topic modeling | [Yes](https://github.com/chihkuanyeh/concept_exp) |
+| CW | [Chen_2020](https://link.springer.com/chapter/10.1007/978-3-030-65347-7_16) | Springer | Whitening and orthogonal transformation | NO |
+| XGL | [popordanoska2020machine](https://arxiv.org/abs/2010.00385) | arXiv | Global explanations and interactive learning | NO |
+| ILIC | [lage2020learning](https://arxiv.org/abs/2006.16152) | arXiv | Gaussian random field | NO |
+| CSIB | [marcos2020contextual](https://www.researchgate.net/publication/343861568_Contextual_Saliency_for_Image-Based_Retrieval) | Asian Conference | Sparse grouping layer and top-K activation layer | NO |
+| MAME | [ramamurthy2020model](https://proceedings.neurips.cc/paper/2020/hash/0d2d3a9f3f73a4f59e0a6e6e8b685f1e-Abstract.html) | NeurIPS | Algorithmic Regularization (AR) | NO |
+| DCA | [9284131](https://ieeexplore.ieee.org/document/9284131) | IEEE ICWS | Hierarchical co-attention mechanism | NO |
+| ICE | [Zhang2020InvertibleCE](https://www.aaai.org/AAAI21Papers/AAAI-8934.ZhangJ.pdf) | AAAI | Non-negative matrix factorization (NMF) on feature maps | NO |
+
 #### 2.2.5. YEAR 2019
-| No | Name        | Reference        | Publisher               | Main Technologies                            | Code |
-|------|-------------|------------------|-------------------------|----------------------------------------------|------|
-| 1 | ACE         | NeurIPS          | Multi-resolution segmentation, Clustering     | Unsupervised, Agnostic, Global, Post-hoc     | [Yes](https://github.com/amiratag/ACE)     |
-| 2 | JargonLite  | IEEE VL/HCC      | Web-based interactive dictionary              | Unsupervised, Agnostic, Local, Post-hoc      | NO   |
-| 3 | ASEIC       | Journal of Physics | Test instruments and descriptive statistics  | Fully supervised, Agnostic, Global, Post-hoc | NO   |
+
 #### 2.2.6. YEAR 2018
 
-| No | Name        | Reference        | Publisher               | Main Technologies                            | Code |
-|------|-------------|------------------|-------------------------|----------------------------------------------|------|
-| 1 | SENNs       | Curran Associates Inc | Self-explaining models, Gradient regularization | Fully supervised, Specific, Local, Self-explanation | NO   |
-| 2 | MAPLE       | IEEE Trans       | Local linear modeling with random forests     | Fully supervised, Agnostic, Both, Post-hoc   | [Yes](https://github.com/GDPlumb/MAPLE)   |
-| 3 | TCAV        | arXiv            | Directional derivatives and linear classifiers | Fully supervised, Agnostic, Global, Post-hoc | NO   |
+
