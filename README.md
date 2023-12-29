@@ -115,16 +115,16 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 | CG                   | [paper]{bai2022concept}                                        | arXiv      | CAV, Gradients                                     | [Yes](https://github.com/jybai/concept-gradients) |
 | OOD Detector         |[paper](https://proceedings.mlr.press/v202/choi23e.html)                        | PMLR       | Detection completeness, concept separability         | No                                        |
 | CRAFT                |[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Fel_CRAFT_Concept_Recursive_Activation_FacTorization_for_Explainability_CVPR_2023_paper.html)                                           | IEEE/CVF   | Non-Negative Matrix Factorization                    | No                                        |
-| STCE                 |[paper] (https://openaccess.thecvf.com/content/CVPR2023/html/Ji_Spatial-Temporal_Concept_Based_Explanation_of_3D_ConvNets_CVPR_2023_paper.html)                                            | IEEE/CVF   | Spatial-temporal volumes, ConvNets, CAV             | [Yes](https://github.com/yingji425/STCE) |
-| CounTEX              | [paper]{10203370}                                          | IEEE/CVF   | CLIP, Counterfactual optimization                   | No                                        |
-| UID                  | [paper]{Liu_2023}                                              | IEEE/CVF   | Conditional energy-based model (EBM) distribution   | [Yes](https://energy-based-model.github.io/unsupervised-concept-discovery/) |
-| PCBMs                |[paper] {yuksekgonul2023posthoc}                              | arXiv      | CAV, embeddings                                    | [Yes](https://github.com/mertyg/post-hoc-cbm) |
-| CCT                  |[paper] {hong2023conceptcentric}                               | arXiv      | Cross-Attention, Concept-Slot-Attention              | No                                        |
-| CPMs |[paper] [panousis2023hierarchical] | arXiv | CBMs, objective function | [Yes](https://github.com/CPMs) |
-| CB with VCF |[paper] [kim2023concept]| Springer | CBM, visual activation score, concept scores | No |
-| CIN |[paper] [li2023does] | arXiv | Graph Neural Network | [Yes](https://github.com/renmengye/interaction-concepts) |
-| Concept policy models |[paper] [pmlr-v205-zabounidis23a](http://proceedings.mlr.press/v205/zabounidis23a.html) | PMLR | Multi-Agent Reinforcement Learning | No |
-| Reflective-Net | [paper][Schneider_2023]| Springer | Reflection, Modified GradCAM | [Yes](https://github.com/JohnTailor/Reflective-Net-Learning-from-Explanations) |
+| STCE                 |[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ji_Spatial-Temporal_Concept_Based_Explanation_of_3D_ConvNets_CVPR_2023_paper.html)                                            | IEEE/CVF   | Spatial-temporal volumes, ConvNets, CAV             | [Yes](https://github.com/yingji425/STCE) |
+| CounTEX              | [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Grounding_Counterfactual_Explanation_of_Image_Classifiers_to_Textual_Concept_Space_CVPR_2023_paper.html)                                        | IEEE/CVF   | CLIP, Counterfactual optimization                   | No                                        |
+| UID                  | [paper](https://arxiv.org/abs/2306.05357)                                              | IEEE/CVF   | Conditional energy-based model (EBM) distribution   | [Yes](https://energy-based-model.github.io/unsupervised-concept-discovery/) |
+| PCBMs                |[paper](https://arxiv.org/abs/2205.15480)               | arXiv      | CAV, embeddings                                    | [Yes](https://github.com/mertyg/post-hoc-cbm) |
+| CCT                  |[paper](https://openaccess.thecvf.com/content/WACV2024/html/Hong_Concept-Centric_Transformers_Enhancing_Model_Interpretability_Through_Object-Centric_Concept_Learning_Within_WACV_2024_paper.html)                               | arXiv      | Cross-Attention, Concept-Slot-Attention              | No                                        |
+| CPMs |[paper](https://arxiv.org/abs/2310.02116) | arXiv | CBMs, objective function | [Yes](https://github.com/CPMs) |
+| CB with VCF |[paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_22)| Springer | CBM, visual activation score, concept scores | No |
+| CIN |[paper](https://arxiv.org/abs/2302.13080) | arXiv | Graph Neural Network | [Yes](https://github.com/renmengye/interaction-concepts) |
+| Concept policy models |[paper](https://proceedings.mlr.press/v205/zabounidis23a.html) | PMLR | Multi-Agent Reinforcement Learning | No |
+| Reflective-Net | [paper](https://link.springer.com/article/10.1007/s10618-023-00920-0)| Springer | Reflection, Modified GradCAM | [Yes](https://github.com/JohnTailor/Reflective-Net-Learning-from-Explanations) |
 | CAVLI | [paper][10208704](https://openaccess.thecvf.com/...) | IEEE/CVF | Hybrid of TCAV and LIME | No |
 | AVCEG |[paper] [YuanLLY23](https://ieeexplore.ieee.org/...) | IEEE INDIN | Visual concept extraction, Segmentation | No |
 | ZEBRA |[paper] [10208711](https://openaccess.thecvf.com/...) | IEEE/CVF | Aggregation of Rarity and Rarity Score | No |
