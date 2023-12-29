@@ -95,7 +95,6 @@
 ####  2.2.1. YEAR 2023
 
 #### 2.2.2. YEAR 2022
-Here is the table with the requested information:
 
 | Name          | Reference                                                | Publisher | Main Technologies                            | Code                                                 |
 |---------------|----------------------------------------------------------|-----------|----------------------------------------------|------------------------------------------------------|
@@ -119,36 +118,34 @@ Here is the table with the requested information:
 | TreeICE       | [arXiv](https://arxiv.org/abs/2210.34567)                | arXiv     | Decision Tree, CAV and NMF, Unsupervised      | No                                                   |
 
 
-Please note that some entries do not have code available.
 #### 2.2.3. YEAR 2021
 
-|No| Name | Reference | Publisher | Main Technologies | Code |
-|--|------|-----------|-----------|-------------------|------|
-|1 | HINT | [9879164](https://doi.org/10.1109/CVPR.2022.00987) | IEEE/CVF | Object localization, Weakly supervised, Agnostic, Global, Post-hoc | [Yes](https://github.com/AntonotnaWang/HINT) |
-|2 | DLIME | [make3030027](https://doi.org/10.1109/MAKE52569.2021.9393754) | MAKE | LIME, Agglomerative Hierarchical Clustering, KNN, Fully/Semi/Un-supervised, Agnostic, Local, Post-hoc | [Yes](https://github.com/rehmanzafar/dlime_experiments) |
-|3 | Cause and Effect | [9658985](https://doi.org/10.1109/SMC42975.2021.9569572) | IEEE SMC | Concept classifier, Fully supervised, Agnostic, Local, Post-hoc | NO |
-|4 | CGL | [Varshneya_2021](https://doi.org/10.24963/ijcaip.2021.06.002) | IJCAI | Batch-normalization, Unsupervised, Specific, Both, Post-hoc | NO |
-|5 | COMET | [cao2021concept](https://arxiv.org/abs/2103.02788) | arXiv | Ensembling of concept learners, Semi supervised, Agnostic, Local, Self-explanation | [Yes](https://github.com/snap-stanford/comet) |
-|6 | DCBCA | [bahadori2021debiasing](https://arxiv.org/abs/2103.11497) | arXiv | Two-Stage Regression for CBMs, Fully supervised, Agnostic, Local, Post-hoc | NO |
-|7 | NeSy XIL | [9578154](https://doi.org/10.1109/CVPR.2021.00957) | IEEE/CVF | Interactive Learning, Semi supervised, Specific, Both, Self-explanation | [Yes](https://github.com/ml-research/NeSyXIL) |
-|8 | ConRAT | [antognini](https://arxiv.org/abs/2103.12549) | arXiv | Bi-directional RNN, Attention, Unsupervised, Specific, Local, Self-explanation | NO |
-|9 | CBGNN | [georgiev2021algorithmic](https://arxiv.org/abs/2106.00137) | arXiv | GNN and logic extraction, Fully supervised, Specific, Both, Self-explanation | [Yes](https://github.com/HekpoMaH/algorithmic-concepts-reasoning) |
-|10 | WSMTL-CBE | [belém2021weakly](https://arxiv.org/abs/2106.00365) | arXiv | Multi-task learning, Weakly supervised, Specific, Local, Post-hoc | NO |
-|11 | CLMs | [683995](https://doi.org/10.1109/ICMLA51756.2021.00272) | ICML-XAI | CBM, Fully supervised, Agnostic, Local, Post-hoc | NO |
-|12 | Ante-hoc | [9879843](https://doi.org/10.1109/CVPR.2022.00987) | IEEE/CVF | Concept encoder, decoder, and classifier, Fully/Semi/Un-supervised, Agnostic, Both, Ante-hoc | [Yes](https://github.com/anirbansarkar-cs/Antehoc_Explainability_Concepts) |
-|13 | VCRNet | [Kim22](https://ojs.aaai.org/index.php/AAAI/article/view/18002) | AAAI | Multi-branch architecture, attention mechanism, Fully supervised, Specific, Local, Post-hoc | [Yes](https://github.com/facebookresearch/detectron2) |
-|14 | Extension of TCAV | [Mincu_2021](https://doi.org/10.1145/3474085.3475642) | ACM | TCAV, Fully supervised, Specific, Global, Post-hoc | NO |
-|15 | CPKD | [9741862](https://doi.org/10.1145/3460231.3479526) | CECIT | Concepts prober and CDT, Fully supervised, Specific, Global, Post-hoc | NO |
-|16 | MACE | [9536400](https://doi.org/10.1109/TNNLS.2021.3063133) | IEEE Trans | 1-D convolution, dense network, triplet loss, Unsupervised, Agnostic, Local, Post-hoc| NCF | [9548372](https://doi.org/10.1109/ACIT51807.2021.9548372) | ACIT | Convolutional Autoencoder, Unsupervised, Agnostic, Local, Post-hoc | NO |
-|17 | PACE | [Kamakshi2021PACEPA](https://doi.org/10.1109/IJCNN52387.2021.9533794) | IJCNN | Autoencoder and concept vectors, Fully supervised, Agnostic, Local, Post-hoc | NO |
-|18| AAN | [10.1145/3477539](https://doi.org/10.1145/3477539) | ACM Trans | Attention mechanism, Sentiment analysis, Fully supervised, Specific, Global, Post-hoc | NO |
-|19| GCExplainer | [magister2021gcexplainer](https://arxiv.org/abs/2102.07823) | arXiv | GNN and k-Means clustering, Unsupervised, Agnostic, Global, Post-hoc | [Yes](https://github.com/CharlotteMagister/GCExplainer) |
-|20| CBSD | [wijaya2021failing](https://arxiv.org/abs/2101.11548) | arXiv | Detection, CBM, CME, Fully supervised, Agnostic, Local, Post-hoc | [Yes](https://github.com/maleakhiw/explaining-dataset-shifts) |
-
-
+| Name       | Reference     | Publisher       | Main Technologies                              | Code |
+|------------|---------------|-----------------|------------------------------------------------|------|
+| HINT       | [9879164]     | IEEE/CVF        | Object localization, Weakly supervised         | Yes  |
+| DLIME      | [make3030027] | MAKE            | LIME, Agglomerative Hierarchical Clustering, KNN | Yes  |
+| Cause and Effect | [9658985] | IEEE SMC       | Concept classifier, Fully supervised           | No   |
+| CGL        | [Varshneya_2021] | IJCAI         | Batch-normalization, Unsupervised              | No   |
+| COMET      | [cao2021concept] | arXiv         | Ensembling of concept learners, Semi supervised | Yes  |
+| DCBCA      | [bahadori2021debiasing] | arXiv    | Two-Stage Regression for CBMs, Fully supervised | No   |
+| NeSy XIL   | [9578154]     | IEEE/CVF        | Interactive Learning, Semi supervised           | Yes  |
+| ConRAT     | [antognini]   | arXiv           | Bi directional RNN, Attention, Unsupervised     | No   |
+| CBGNN      | [georgiev2021algorithmic] | arXiv | GNN and logic extraction, Fully supervised      | Yes  |
+| WSMTL-CBE  | [belém2021weakly] | arXiv        | Multi-task learning, Weakly supervised          | No   |
+| CLMs       | [683995]      | ICML-XAI        | CBM, Fully supervised                          | No   |
+| Ante-hoc   | [9879843]     | IEEE/CVF        | Concept encoder, decoder, and classifier        | Yes  |
+| VCRNet     | [Kim22]       | AAAI            | Multi-branch architecture, attention mechanism  | Yes  |
+| Extension of TCAV | [Mincu_2021] | ACM       | TCAV, Fully supervised                         | No   |
+| CPKD       | [9741862]     | CECIT           | Concepts prober and CDT, Fully supervised       | No   |
+| MACE       | [9536400]     | IEEE Trans      | 1-D convolution, dense network, triplet loss    | No   |
+| NCF        | [9548372]     | ACIT            | Convolutional Autoencoder, Unsupervised         | No   |
+| PACE       | [Kamakshi2021PACEPA] | IJCNN    | Autoencoder and concept vectors, Fully supervised | No   |
+| AAN        | [10.1145/3477539] | ACM Trans   | Attention mechanism, Sentiment analysis         | No   |
+| GCExplainer | [magister2021gcexplainer] | arXiv   | GNN and k-Means clustering, Unsupervised        | Yes  |
+| CBSD       | [wijaya2021failing] | arXiv        | Detection, CBM, CME, Fully supervised           | Yes  |
 
 #### 2.2.4. YEAR 2020
-Here is the table in GitHub format:
+
 
 | Name | Reference | Publisher | Main Technologies | Code |
 |------|-----------|-----------|------------------|------|
