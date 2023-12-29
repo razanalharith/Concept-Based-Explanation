@@ -1,6 +1,7 @@
 
 # <p align=center>`Concept-Based-Explanation`
 
+Concept-based explanation methods have emerged as a major way to enhance deep learning model interpretability and transparency. By employing human-understandable concepts and explanations, these strategies try to provide insights into how these models create predictions. Concept-based explanation approaches bridge the gap between the model's internal workings and human understanding by mapping the model's internal representations to meaningful concepts such as objects or attributes.
 
 < **Last updated: 29/12/2023** >
 
