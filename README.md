@@ -96,6 +96,28 @@
 
 #### 2.2.2. YEAR 2022
 
+|    NO    |       Name        | Reference |              Publisher              |      Main Technologies      |   Code   |
+|----------|-------------------|-----------|-------------------------------------|-----------------------------|----------|
+|    1     |       CPM         |   ICML    |         SELF-EXPLANATION            |     Semi-supervised         |   Yes    |
+|    2     |       CARs        |  NeurIPS  |      Concept Activation Regions     |     Fully supervised        |   Yes    |
+|    3     |       CLEF        |   IJCAI   |    Counterfactual explanation       |     Semi-supervised         |   NO     |
+|    4     |       CRP         |   arXiv   | Layer-wise Relevance Propagation... |     Semi-supervised         |   Yes    |
+|    5     |  ConceptExplainer | IEEE TVCG |  Concept extraction and clustering  | Fully/Semi/Un-supervised    |   NO     |
+|    6     |      CoDEx        |   arXiv   |    Semantic Concept Video Classification | Fully supervised |   NO     |
+|    7     |    UFDB-CBM       |   arXiv   |       Concept-based Models          |     Semi-supervised         |   NO     |
+|    8     |   ConceptDistil   |   arXiv   |  Multi task surrogate model, Attention | Semi-supervised          |   NO     |
+|    9     |       CT          | IEEE/CVF  |        Cross-Attention              |     Fully supervised        |   Yes    |
+|   10     |      CEM's        |  NeurIPS  |       CEM, Embedding Models         |     Fully supervised        |   NO     |
+|   11     |     CBM-AUC       |IEEE Access| Scene Categorization , saliency maps |     Unsupervised            |   NO     |
+|   12     |       CCE         |   ICML    | Counterfactual explanations and...  |     Fully supervised        |   Yes    |
+|   13     |       ICS         |   arXiv   |  Integrated Gradients and TCAV      |     Fully supervised        |   NO     |
+|   14     |   ConceptExtract  |IEEE TVCG  |  Active learning, Embedding...      |     Semi-supervised         |   NO     |
+|   15     |      OPE-CE       | IEEE ICMLA| Multi-label neural network with...  |     Fully supervised        |   NO     |
+|   16     |      GLANCE       |   arXiv   | Twin-surrogate model, causal graph  |     Weakly supervised       |   Yes    |
+|   17     |       ACE         |  Sensors  |   SLIC, k-means, TCAV               |     Fully supervised        |   NO     |
+|   18     |     TreeICE       |   arXiv   |  Decision Tree, CAV and NMF         |     Unsupervised            |   NO     |
+
+
 #### 2.2.3. YEAR 2021
 
 |No| Name | Reference | Publisher | Main Technologies | Code |
