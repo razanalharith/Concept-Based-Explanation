@@ -28,9 +28,7 @@
     - [2.2.5. YEAR 2019](#225-year-2019)
     - [2.2.6. YEAR 2018](#226-year-2018)
 
-Certainly! To adjust the tables in GitHub-flavored Markdown format, you can use the following template:
 
-```markdown
 ## 2. Lists
 
 ### 2.1. Common used Datasets Lists
@@ -90,9 +88,8 @@ Certainly! To adjust the tables in GitHub-flavored Markdown format, you can use 
 | -- | -------- | ---- | ----- | --- |
 | 1 | REDDIT-BINARY | 2015 | Graph classification | [Yes](https://paperswithcode.com/dataset/reddit-binary) |
 | 2 | BAShapes | 2017 | Graph classification | [Yes](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.BAShapes.html#torch-geometric-datasets-bashapes) |
-```
 
-You can copy and paste this template into your GitHub repository, and it will display the tables correctly.
+
 ###  2.2. Papers List
 
 ####  2.2.1. YEAR 2023
