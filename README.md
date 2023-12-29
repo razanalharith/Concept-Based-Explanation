@@ -72,7 +72,7 @@ Concept-Based-Explanation methods.
 2.2.3 Text Datasets
 | No | Datasets| Year |Tasks 			  | URL				    |
 |---|----------|------|---------------------------|---------------------------------|
-|CEBaB| 202| NLP |[Yes](https://cebabing.github.io/CEBaB/)|
+|  1| CEBaB    | 2022 | NLP			   |[Yes](https://cebabing.github.io/CEBaB/)|
 2.2.4 Chemistry  Datasets
 
 
