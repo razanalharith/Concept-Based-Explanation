@@ -200,10 +200,10 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 | CW | [Chen_2020](https://link.springer.com/chapter/10.1007/978-3-030-65347-7_16) | Springer | Whitening and orthogonal transformation | NO |
 | XGL | [popordanoska2020machine](https://arxiv.org/abs/2010.00385) | arXiv | Global explanations and interactive learning | NO |
 | ILIC | [lage2020learning](https://arxiv.org/abs/2006.16152) | arXiv | Gaussian random field | NO |
-| CSIB | [marcos2020contextual](https://www.researchgate.net/publication/343861568_Contextual_Saliency_for_Image-Based_Retrieval) | Asian Conference | Sparse grouping layer and top-K activation layer | NO |
-| MAME | [ramamurthy2020model](https://proceedings.neurips.cc/paper/2020/hash/0d2d3a9f3f73a4f59e0a6e6e8b685f1e-Abstract.html) | NeurIPS | Algorithmic Regularization (AR) | NO |
-| DCA | [9284131](https://ieeexplore.ieee.org/document/9284131) | IEEE ICWS | Hierarchical co-attention mechanism | NO |
-| ICE | [Zhang2020InvertibleCE](https://www.aaai.org/AAAI21Papers/AAAI-8934.ZhangJ.pdf) | AAAI | Non-negative matrix factorization (NMF) on feature maps | NO |
+| CSIB | [paper](https://openaccess.thecvf.com/content/ACCV2020/html/Marcos_Contextual_Semantic_Interpretability_ACCV_2020_paper.html) | Asian Conference | Sparse grouping layer and top-K activation layer | NO |
+| MAME | [paper](https://proceedings.neurips.cc/paper/2020/hash/426f990b332ef8193a61cc90516c1245-Abstract.html) | NeurIPS | Algorithmic Regularization (AR) | NO |
+| DCA | [9284131](https://ieeexplore.ieee.org/abstract/document/9284131) | IEEE ICWS | Hierarchical co-attention mechanism | NO |
+| ICE | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17389) | AAAI | Non-negative matrix factorization (NMF) on feature maps | NO |
 
 #### 2.2.5. YEAR 2019
 |  Method Name| Paper        | Publisher                | Main Technologies                            | Code    |
