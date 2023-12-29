@@ -82,8 +82,20 @@ Concept-Based-Explanation methods.
 | 1 | Mutagenicity(MUTAG) |1991 | Graph classification|[Yes](https://paperswithcode.com/sota/graph-classification-on-mutag)|
 
 2.2.5 Biology Datasets
+| No | Datasets| Year |Tasks 			  | URL				    |
+|---|----------|------|---------------------------|---------------------------------|
+| 1 |
+& ENZYMES & NA & 600 proteins& Graph classification |[Yes](https://paperswithcode.com/dataset/enzymes)|
+
+
+
 
 2.2.6 Graph Datasets
+| No | Datasets| Year |Tasks 			  | URL				    |
+|---|----------|------|---------------------------|---------------------------------|
+| 1 | REDDIT-BINARY |2015 | Graph classification |[Yes](https://paperswithcode.com/dataset/reddit-binary)|
+| 2 | BAShapes | 2017 | Graph classification|[Yes](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.BAShapes.html#torch-geometric-datasets-bashapes)|
+
 ###  2.2. Papers
 
 
