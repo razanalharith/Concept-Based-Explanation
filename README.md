@@ -165,24 +165,24 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 
 |  Method Name| Paper     | Publisher       | Main Technologies                              | Code |
 |------------|---------------|-----------------|------------------------------------------------|------|
-| HINT       | [9879164]     | IEEE/CVF        | Object localization, Weakly supervised         | Yes  |
-| DLIME      | [make3030027] | MAKE            | LIME, Agglomerative Hierarchical Clustering, KNN | Yes  |
-| Cause and Effect | [9658985] | IEEE SMC       | Concept classifier, Fully supervised           | No   |
-| CGL        | [Varshneya_2021] | IJCAI         | Batch-normalization, Unsupervised              | No   |
-| COMET      | [cao2021concept] | arXiv         | Ensembling of concept learners, Semi supervised | Yes  |
-| DCBCA      | [bahadori2021debiasing] | arXiv    | Two-Stage Regression for CBMs, Fully supervised | No   |
-| NeSy XIL   | [9578154]     | IEEE/CVF        | Interactive Learning, Semi supervised           | Yes  |
-| ConRAT     | [antognini]   | arXiv           | Bi directional RNN, Attention, Unsupervised     | No   |
-| CBGNN      | [georgiev2021algorithmic] | arXiv | GNN and logic extraction, Fully supervised      | Yes  |
-| WSMTL-CBE  | [belém2021weakly] | arXiv        | Multi-task learning, Weakly supervised          | No   |
-| CLMs       | [683995]      | ICML-XAI        | CBM, Fully supervised                          | No   |
-| Ante-hoc   | [9879843]     | IEEE/CVF        | Concept encoder, decoder, and classifier        | Yes  |
+| HINT       | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_HINT_Hierarchical_Neuron_Concept_Explainer_CVPR_2022_paper.html)    | IEEE/CVF        | Object localization, Weakly supervised         | Yes  |
+| DLIME      | [paper](https://www.mdpi.com/2504-4990/3/3/27) | MAKE            | LIME, Agglomerative Hierarchical Clustering, KNN | Yes  |
+| Cause and Effect | [paper](https://ieeexplore.ieee.org/abstract/document/9658985) | IEEE SMC       | Concept classifier, Fully supervised           | No   |
+| CGL        | [paper](https://arxiv.org/abs/2109.10078) | IJCAI         | Batch-normalization, Unsupervised              | No   |
+| COMET      | [paper](https://arxiv.org/abs/2007.07375) | arXiv         | Ensembling of concept learners, Semi supervised | Yes  |
+| DCBCA      | [paper](https://arxiv.org/abs/2007.11500) | arXiv    | Two-Stage Regression for CBMs, Fully supervised | No   |
+| NeSy XIL   | [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Stammer_Right_for_the_Right_Concept_Revising_Neuro-Symbolic_Concepts_by_Interacting_CVPR_2021_paper.html)     | IEEE/CVF        | Interactive Learning, Semi supervised           | Yes  |
+| ConRAT     | [paper](https://arxiv.org/abs/2105.04837)   | arXiv           | Bi directional RNN, Attention, Unsupervised     | No   |
+| CBGNN      | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20623) | arXiv | GNN and logic extraction, Fully supervised      | Yes  |
+| WSMTL-CBE  | [paper](https://arxiv.org/abs/2104.12459) | arXiv        | Multi-task learning, Weakly supervised          | No   |
+| CLMs       | [paper](https://arxiv.org/abs/2106.13314)      | ICML-XAI        | CBM, Fully supervised                          | No   |
+| Ante-hoc   | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Sarkar_A_Framework_for_Learning_Ante-Hoc_Explainable_Models_via_Concepts_CVPR_2022_paper.html)     | IEEE/CVF        | Concept encoder, decoder, and classifier        | Yes  |
 | VCRNet     | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16995)       | AAAI            | Multi-branch architecture, attention mechanism  | Yes  |
 | Extension of TCAV | [paper](https://dl.acm.org/doi/abs/10.1145/3450439.3451858) | ACM       | TCAV                        | No   |
 | CPKD       | [paper](https://ieeexplore.ieee.org/abstract/document/9741862)     | CECIT           | Concepts prober and CDT      | No   |
 | MACE       | [paper](https://ieeexplore.ieee.org/abstract/document/9536400)     | IEEE Trans      | 1-D convolution, dense network, triplet loss    | No   |
 | NCF        | [paper](https://ieeexplore.ieee.org/abstract/document/9548372)     | ACIT            | Convolutional Autoencoder, Unsupervised         | No   |
-| PACE       | [Kamakshi2021PACEPA] | IJCNN    | Autoencoder and concept vectors, Fully supervised | No   |
+| PACE       | [paper](https://ieeexplore.ieee.org/abstract/document/9534369) | IJCNN    | Autoencoder and concept vectors, Fully supervised | No   |
 | AAN        | [paper](https://dl.acm.org/doi/abs/10.1145/3477539) | ACM Trans   | Attention mechanism, Sentiment analysis         | No   |
 | GCExplainer | [paper](https://arxiv.org/abs/2107.11889) | arXiv   | GNN and k-Means clustering, Unsupervised        | Yes  |
 | CBSD       | [paper](https://arxiv.org/abs/2104.08952) | arXiv        | Detection, CBM, CME, Fully supervised           | Yes  |
