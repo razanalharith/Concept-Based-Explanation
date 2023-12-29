@@ -187,8 +187,9 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 | GCExplainer | [magister2021gcexplainer] | arXiv   | GNN and k-Means clustering, Unsupervised        | Yes  |
 | CBSD       | [wijaya2021failing] | arXiv        | Detection, CBM, CME, Fully supervised           | Yes  |
 
-#### 2.2.4. YEAR 2020
 
+
+#### 2.2.4. YEAR 2020
 
 |  Method Name| Paper | Publisher | Main Technologies | Code |
 |------|-----------|-----------|------------------|------|
