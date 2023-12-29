@@ -162,7 +162,17 @@
 | ICE | [Zhang2020InvertibleCE](https://www.aaai.org/AAAI21Papers/AAAI-8934.ZhangJ.pdf) | AAAI | Non-negative matrix factorization (NMF) on feature maps | NO |
 
 #### 2.2.5. YEAR 2019
+| Name     | Reference        | Publisher                | Main Technologies                            | Code    |
+|----------|------------------|--------------------------|----------------------------------------------|---------|
+| ACE      | [105555](#105555) | NeurIPS                  | Multi-resolution segmentation, Clustering     | Yes     |
+| JargonLite | [8818822](#8818822) | IEEE VL/HCC               | Web-based interactive dictionary             | NO      |
+| ASEIC    | [Ramdani2019](#Ramdani2019) | Journal of Physics      | Test instruments and descriptive statistics | NO      |
 
 #### 2.2.6. YEAR 2018
+| Name     | Reference        | Publisher                | Main Technologies                            | Code    |
+|----------|------------------|--------------------------|----------------------------------------------|---------|
+| SENNs    | [1055](#1055)      | Curran Associates Inc     | Self-explaining models, Gradient regularization | NO      |
+| MAPLE    | [1077](#1077)      | IEEE Trans                | Local linear modeling with random forests    | Yes     |
+| TCAV     | [kim2018interpretability](#kim2018interpretability) | arXiv                    | Directional derivatives and linear classifiers | NO      |
 
 
