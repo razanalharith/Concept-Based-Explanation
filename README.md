@@ -135,7 +135,7 @@
 | Holistic Explanation | [10309800](https://ieeexplore.ieee.org/...) | IEEE FUZZ | Medoid-based concept reduction | No |
 | GX-HUI | [10196989](https://ieeexplore.ieee.org/...) | IEEE COMPSAC | High-Utility Itemset Mining, Shapley values | No |
 
-Please note that the "Code" column indicates whether code is available for the respective project, and the provided links direct to the corresponding code repositories when applicable.
+
 #### 2.2.2. YEAR 2022
 
 | Name          | Reference                                                | Publisher | Main Technologies                            | Code                                                 |
