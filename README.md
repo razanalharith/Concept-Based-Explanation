@@ -177,15 +177,15 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 | WSMTL-CBE  | [belém2021weakly] | arXiv        | Multi-task learning, Weakly supervised          | No   |
 | CLMs       | [683995]      | ICML-XAI        | CBM, Fully supervised                          | No   |
 | Ante-hoc   | [9879843]     | IEEE/CVF        | Concept encoder, decoder, and classifier        | Yes  |
-| VCRNet     | [Kim22]       | AAAI            | Multi-branch architecture, attention mechanism  | Yes  |
-| Extension of TCAV | [Mincu_2021] | ACM       | TCAV, Fully supervised                         | No   |
-| CPKD       | [9741862]     | CECIT           | Concepts prober and CDT, Fully supervised       | No   |
-| MACE       | [9536400]     | IEEE Trans      | 1-D convolution, dense network, triplet loss    | No   |
-| NCF        | [9548372]     | ACIT            | Convolutional Autoencoder, Unsupervised         | No   |
+| VCRNet     | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16995)       | AAAI            | Multi-branch architecture, attention mechanism  | Yes  |
+| Extension of TCAV | [paper](https://dl.acm.org/doi/abs/10.1145/3450439.3451858) | ACM       | TCAV                        | No   |
+| CPKD       | [paper](https://ieeexplore.ieee.org/abstract/document/9741862)     | CECIT           | Concepts prober and CDT      | No   |
+| MACE       | [paper](https://ieeexplore.ieee.org/abstract/document/9536400)     | IEEE Trans      | 1-D convolution, dense network, triplet loss    | No   |
+| NCF        | [paper](https://ieeexplore.ieee.org/abstract/document/9548372)     | ACIT            | Convolutional Autoencoder, Unsupervised         | No   |
 | PACE       | [Kamakshi2021PACEPA] | IJCNN    | Autoencoder and concept vectors, Fully supervised | No   |
-| AAN        | [10.1145/3477539] | ACM Trans   | Attention mechanism, Sentiment analysis         | No   |
-| GCExplainer | [magister2021gcexplainer] | arXiv   | GNN and k-Means clustering, Unsupervised        | Yes  |
-| CBSD       | [wijaya2021failing] | arXiv        | Detection, CBM, CME, Fully supervised           | Yes  |
+| AAN        | [paper](https://dl.acm.org/doi/abs/10.1145/3477539) | ACM Trans   | Attention mechanism, Sentiment analysis         | No   |
+| GCExplainer | [paper](https://arxiv.org/abs/2107.11889) | arXiv   | GNN and k-Means clustering, Unsupervised        | Yes  |
+| CBSD       | [paper](https://arxiv.org/abs/2104.08952) | arXiv        | Detection, CBM, CME, Fully supervised           | Yes  |
 
 
 
