@@ -38,7 +38,7 @@ Concept-Based-Explanation methods.
     - [2.2.5. YEAR 2019]
     - [2.2.6. YEAR 2018]
 
-##  2. Paper List
+##  2. Lists
 
 ###  2.1. Datasets 
 #### 2.1.1 Image Datasets
