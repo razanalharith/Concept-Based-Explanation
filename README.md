@@ -1,9 +1,3 @@
-# Concept-Based-Explanation
-
-
-Concept-Based-Explanation methods.
-
-
 
 # <p align=center>`Concept-Based-Explanation`
 
