@@ -135,7 +135,7 @@ Concept-based explanation methods have emerged as a major way to enhance deep le
 | L-CRP |[Paper](https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/html/Dreyer_Revealing_Hidden_Context_Bias_in_Segmentation_and_Object_Detection_Through_CVPRW_2023_Paper.html)| IEEE/CVF | Concept Relevance Propagation | No |
 | Holistic Explanation | [Paper](https://ieeexplore.ieee.org/abstract/document/10309800) | IEEE FUZZ | Medoid-based concept reduction | No |
 | GX-HUI |[Paper](https://ieeexplore.ieee.org/abstract/document/10196989) | IEEE COMPSAC | High-Utility Itemset Mining, Shapley values | No |
-|GCCD|[paper(https://openaccess.thecvf.com/content/CVPR2023/html/Yan_Towards_Trustable_Skin_Cancer_Diagnosis_via_Rewriting_Models_Decision_CVPR_2023_paper.html)| IEEE/CVF |Spectral clustering , GradCAM  and CAVs|No|
+|GCCD|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yan_Towards_Trustable_Skin_Cancer_Diagnosis_via_Rewriting_Models_Decision_CVPR_2023_paper.html)| IEEE/CVF |Spectral clustering , GradCAM  and CAVs|No|
 
 
 #### 2.2.2. YEAR 2022
